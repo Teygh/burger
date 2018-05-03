@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
   port: 3306,
   host: "localhost",
   user: "root",
-  password: "hamideh-1367", //Please Enter your Password for MySQL Workbench to run this file.
+  password: "", //Please Enter your Password for MySQL Workbench to run this file.
   database: "burgers_db"
 });
 
