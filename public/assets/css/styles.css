@@ -1,0 +1,23 @@
+body {
+  background-color:rgb(255,255,255);
+  color:rgb(244,246,247);
+}
+
+
+#top {
+  height:100vh;
+  /* background-image:url("../../assets/img/burger-2916288_640.jpg"); */
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  width:100%;
+  color:rgb(9,9,9);
+}
+
+
+.col.offset-lg-0 {
+  background-color:inherit;
+}
+
+
+
